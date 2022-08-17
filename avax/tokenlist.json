@@ -1,4 +1,12 @@
-
+  {
+        "name": "BetDoge",
+        "symbol": "BetDoge",
+        "address": "0x4672a1B35Cc25bED3Fa889Dc4DcFD0fc85d6917D",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://s3.bmp.ovh/imgs/2022/08/17/9e1cb9d8edb4ff5e.png",
+        "top": true
+      },
 {
     "name": "Bogged Finance Avax",
     "tokens": [
